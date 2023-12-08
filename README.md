@@ -1,7 +1,4 @@
-# GitHub Codespaces ♥️ Jupyter Notebooks
+# DS 220 Project 2
+Authors: Conor Long, Allan Samoilovich
 
-Welcome to your shiny new codespace! We've got everything fired up and running for you to explore Python and Jupyter notebooks.
-
-You've got a blank canvas to work on from a git perspective as well. There's a single initial commit with what you're seeing right now - where you go from here is up to you!
-
-Everything you do here is contained within this one codespace. There is no repository on GitHub yet. If and when you’re ready you can click "Publish Branch" and we’ll create your repository and push up your project. If you were just exploring then and have no further need for this code then you can simply delete your codespace and it's gone forever.
+For this project, we decided to look at the average alcohol consumption per person in every country in 2010. We came up with 6 questions that we wanted answered and created a Jupyter Notebook to answer these questions.
